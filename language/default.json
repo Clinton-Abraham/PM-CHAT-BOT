@@ -1,5 +1,5 @@
 {
-    "START": "Hi, You can message my owner with this bot. You can send any media. My owner will reply ur message ASAP!",
+    "START": "*Hi, leave your message here. I'm trying to reply soon. 😁*",
     "ERROR_REPLY": "*Please reply an message.*",
     "ERROR_NOTFOUND": "*Message not found in database. Can't reply.*",
     "SENDER": "*Sender:*"
