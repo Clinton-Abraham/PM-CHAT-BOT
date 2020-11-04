@@ -1,4 +1,4 @@
-# pmChatBot
+# PM-CHAT-BOT
 A simple feed-back bot written in [BOTING](https://github.com/Clinton-Abraham/PM-CHAT-BOT). It is similar to the Livegram bot.
 
 [🇹🇷 Türkçe](https://github.com/Clinton-Abraham/PM-CHAT-BOT/blob/master/README-tr.md) | [🇬🇧 English](https://github.com/Clinton-Abraham/PM-CHAT-BOT/blob/master/README.md) 
@@ -9,7 +9,7 @@ A simple feed-back bot written in [BOTING](https://github.com/Clinton-Abraham/PM
 ### Hard
 ```sh
 git clone https://github.com/Clinton-Abraham/PM-CHAT-BOT
-cd pmChatBot
+cd PM-CHAT-BOT
 composer install
 nano .env
 # Create and edit env file #
