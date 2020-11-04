@@ -8,7 +8,7 @@ A simple feed-back bot written in [BOTING](https://github.com/Clinton-Abraham/PM
 
 ### Hard
 ```sh
-git clone https://github.com/Quiec/pmChatBot
+git clone https://github.com/Clinton-Abraham/PM-CHAT-BOT
 cd pmChatBot
 composer install
 nano .env
