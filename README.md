@@ -1,5 +1,5 @@
 # pmChatBot
-A simple feed-back bot written in [Boting](https://github.com/Quiec/Boting). It is similar to the Livegram bot.
+A simple feed-back bot written in [BOTING](https://github.com/Clinton-Abraham/PM-CHAT-BOT). It is similar to the Livegram bot.
 
 [🇹🇷 Türkçe](https://github.com/Clinton-Abraham/PM-CHAT-BOT/blob/master/README-tr.md) | [🇬🇧 English](https://github.com/Clinton-Abraham/PM-CHAT-BOT/blob/master/README.md) 
 ## Install
